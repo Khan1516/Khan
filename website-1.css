@@ -1,0 +1,9 @@
+.dropdown-item{
+    border-top: 1px solid gray;
+}
+.nav-item{
+    word-spacing: 30PX;
+}
+#last:hover{
+    color: brown;
+}
